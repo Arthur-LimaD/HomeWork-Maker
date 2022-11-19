@@ -1,0 +1,29 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "test": "vitest --config ./vite.config.ts"
+  },
+  "dependencies": {
+    "@google-cloud/language": "^5.1.0",
+    "@types/ejs": "^3.1.1",
+    "@types/html-pdf": "^3.0.0",
+    "@types/prompt-sync": "^4.2.0",
+    "@types/puppeteer": "^7.0.4",
+    "@types/readline-sync": "^1.4.4",
+    "algorithmia": "^0.3.10",
+    "ejs": "^3.1.8",
+    "html-pdf": "^3.0.1",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0",
+    "pupeteer": "^0.0.1",
+    "puppeteer-tsd": "^0.0.2",
+    "readline-sync": "^1.4.10",
+    "sucrase": "^3.29.0",
+    "typescript": "^4.9.3",
+    "vitest": "^0.25.2"
+  }
+}

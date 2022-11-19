@@ -3,7 +3,8 @@
 This project simply do a little search about a theme you can choose and produces a .pdf file containing it. 
 
 ## Demonstration
-![demonstration](https://user-images.githubusercontent.com/98204950/202871428-9179a2b1-e5b9-458a-9626-3f0928be7e25.gif)
+
+![demonstration](https://user-images.githubusercontent.com/98204950/202871857-b667cc7c-7bf0-4eab-be88-9fc78ab1c0e6.gif)
 
 ## Features and Tools
 

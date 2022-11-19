@@ -2,6 +2,12 @@
 
 This project simply do a little search about a theme you can choose and produces a .pdf file containing it. 
 
+## Demonstration
+![demonstration](https://user-images.githubusercontent.com/98204950/202871428-9179a2b1-e5b9-458a-9626-3f0928be7e25.gif)
+
+## Demonstration:
+[demonstration.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec566148-e71c-4dc9-b832-1855593cef76/demonstration.mp4)
+
 ## Features and Tools
 
 - TypeScript

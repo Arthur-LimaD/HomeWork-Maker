@@ -4,7 +4,8 @@ This project simply do a little search about a theme you can choose and produces
 
 ## Demonstration
 
-![demonstration](https://user-images.githubusercontent.com/98204950/202871857-b667cc7c-7bf0-4eab-be88-9fc78ab1c0e6.gif)
+![demonstration](https://user-images.githubusercontent.com/98204950/202871920-46a6a7cc-f44d-4af4-8c5e-2ac8cf1b20bc.gif)
+
 
 ## Features and Tools
 

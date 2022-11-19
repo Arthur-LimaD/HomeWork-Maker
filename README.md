@@ -7,7 +7,7 @@ This project simply do a little search about a theme you can choose and produces
 https://user-images.githubusercontent.com/98204950/202872080-ce79f767-3363-4bd1-b22b-4833c54a557c.mp4
 
 
-## Features and Tools
+## Features and Used Tools
 
 - TypeScript
 - NodeJS

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is Our First Automatic project!</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300;400');
+        *{
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="capa">
+        <div>
+            <h2><%= title.searchPrefix %></h2>
+            <h1><%= title.searchTerm %></h1>
+        </div>
+
+        <div class="info">
+            <p>Author: <strong>Arthur</strong></p>
+            <p>Date: <strong><%= new Date().getFullYear() + '-' + new Date().getMonth() + '-' + new Date().getDate()  %></strong></p>
+            <p><strong>O pai é pika tá</strong></p>
+        </div>
+    </div>
+
+    <% text.map((item, index)=> { %>
+
+        <p class="paragraph"> <%= item %> </p>
+
+        <% if (img[index] && img[index].alt) { %>
+            <label><%= img[index].alt %></label>
+            <br/>
+            <br/>
+            <img  src='<%= img[index].src %>'/>
+        <%} else { %>
+        <% } %>
+            
+    <% }) %>
+
+</body>
+</html>

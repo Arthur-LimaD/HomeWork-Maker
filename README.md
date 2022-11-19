@@ -61,4 +61,13 @@ And then the app with start executing.
 
 The result argmuments of your search will be printed on console and the final pdf file will be generated on the ‘results’ directory;
 
+## Important Advice! ⚠
+
+This project is still in development, features like
+
+- Pdf stilization
+- Tests 
+
+Aren't still complete
+
 # Enjoy 🗿
